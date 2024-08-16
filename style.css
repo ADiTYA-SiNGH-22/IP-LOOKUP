@@ -1,0 +1,12 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+
+#ip-info {
+    margin-top: 20px;
+}
+
+#ip-info p {
+    margin-bottom: 10px;
+}
